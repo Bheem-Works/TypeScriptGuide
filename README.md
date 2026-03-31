@@ -1,4 +1,4 @@
-# TypeScript Setup and Usage Guide
+# TypeScript Guide
 
 This project shows a simple way to install TypeScript, create `.ts` files, compile them, and run them.
 
